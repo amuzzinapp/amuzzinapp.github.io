@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://blog.amuzz.in/blog/2012/07/22/the-problem-with-pingdom/</loc>
-        <lastmod>2014-01-18T21:11:24+05:30</lastmod>
+        <loc>
+            http://blog.amuzz.in/blog/2014/01/18/5-reasons-why-you-should-own-an-amuzzin-account/
+        </loc>
+        <lastmod>2014-01-18T23:21:03+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.amuzz.in/about/</loc>
@@ -10,11 +12,11 @@
     </url>
     <url>
         <loc>http://blog.amuzz.in/blog/archives/</loc>
-        <lastmod>2014-01-18T21:11:24+05:30</lastmod>
+        <lastmod>2014-01-18T23:21:03+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.amuzz.in/</loc>
-        <lastmod>2014-01-18T21:11:24+05:30</lastmod>
+        <lastmod>2014-01-18T23:21:03+05:30</lastmod>
     </url>
     <url>
         <loc>http://blog.amuzz.in/robots.txt</loc>

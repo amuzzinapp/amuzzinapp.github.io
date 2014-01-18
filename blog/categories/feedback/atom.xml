@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[blog.amuzz.in]]></title>
-  <link href="http://blog.amuzz.in/atom.xml" rel="self"/>
+  <title><![CDATA[Category: feedback | blog.amuzz.in]]></title>
+  <link href="http://blog.amuzz.in/blog/categories/feedback/atom.xml" rel="self"/>
   <link href="http://blog.amuzz.in/"/>
   <updated>2014-01-18T23:24:09+05:30</updated>
   <id>http://blog.amuzz.in/</id>
@@ -51,11 +51,11 @@
 
 <p>This is how the world worked atleast for letting your friends know what you are currently listening to (which would annoy rest of the crowd).</p>
 
-<p>We have a feature in amuzzin <strong>friends&#8217; stream</strong> which would list all your online friends, their currently playing songs and their entire Queue of Now Playing.</p>
+<p>We have a feature in amuzzin <strong>friends' stream</strong> which would list all your online friends, their currently playing songs and their entire Queue of Now Playing.</p>
 
 <p>Whenever you signin using Facebook we sync all your facebook friends who are in amuzzin database. If you want to keep your facebook world out of the amuzzin world (since both serves entirely different purposes) you can manually search your close ones and add them selectively.</p>
 
-<p>You can block anyone from friends&#8217; stream who might be a <strong>friend of a friend of a friend</strong> whom you accepted in Facebook accidentally and you don&rsquo;t wish to see in the friends&#8217; stream, by searching their name and clicking <strong>&lsquo;Hide from Stream&rsquo;</strong>.</p>
+<p>You can block anyone from friends' stream who might be a <strong>friend of a friend of a friend</strong> whom you accepted in Facebook accidentally and you don&rsquo;t wish to see in the friends' stream, by searching their name and clicking <strong>&lsquo;Hide from Stream&rsquo;</strong>.</p>
 
 <p> Explore this feature from here: <a href="http://amuzz.in/friends">http://amuzz.in/friends</a></p>
 
