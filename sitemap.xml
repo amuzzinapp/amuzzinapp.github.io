@@ -1,15 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://amuzzinapp.github.io/blog/archives/</loc>
-        <lastmod>2014-01-18T16:45:30+05:30</lastmod>
+        <loc>http://blog.amuzz.in/blog/2012/07/22/intro/</loc>
+        <lastmod>2014-01-18T17:05:33+05:30</lastmod>
     </url>
     <url>
-        <loc>http://amuzzinapp.github.io/</loc>
-        <lastmod>2014-01-18T16:45:30+05:30</lastmod>
+        <loc>http://blog.amuzz.in/blog/2012/07/22/the-problem-with-pingdom/</loc>
+        <lastmod>2014-01-18T17:05:33+05:30</lastmod>
     </url>
     <url>
-        <loc>http://amuzzinapp.github.io/robots.txt</loc>
+        <loc>http://blog.amuzz.in/about/</loc>
+        <lastmod>2014-01-18T17:05:34+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.amuzz.in/blog/archives/</loc>
+        <lastmod>2014-01-18T17:05:34+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.amuzz.in/</loc>
+        <lastmod>2014-01-18T17:05:34+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.amuzz.in/robots.txt</loc>
         <lastmod>2014-01-18T16:45:30+05:30</lastmod>
     </url>
 </urlset>
