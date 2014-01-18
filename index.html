@@ -142,13 +142,13 @@
 
   <h1>5 reasons why you should own an amuzzin account</h1>
 
-<p>We have officially launched amuzzin three days before and we have few <strong>genuine</strong> users. We are really happy for their adventurous dive into our application, exploring each and every feature and providing us their valuble suggestions. Some suggestions are way beyond our scope, but I am sure we will get there :)</p>
+<p>We have officially launched amuzzin three days ago and we have few <strong>genuine</strong> users. We are really happy for their adventurous dive into our application, exploring each and every feature and providing us their valuble suggestions. Some suggestions are way beyond our scope, but we will get there :)</p>
 
 <p>We would like to draw a clear line of what is not amuzzin before we start.</p>
 
 <h4>amuzzin is a complete music repository</h4>
 
-<p><strong>No.</strong> If you search for your favourite song and if the search returns nothing please don’t get dissapointed. amuzzin is user driven model wherein one user uploads one&rsquo;s creation and rest gets access to them. Someday the song you searched for might be uploaded to amuzzin by its creator. So keep checking!</p>
+<p><strong>No.</strong> If you search for your favourite song and if the search returns nothing please don’t get dissapointed. amuzzin is user driven model wherein one user uploads one&rsquo;s creation and rest gets access to it. Someday the song you searched for might be uploaded to amuzzin by its creator. So keep checking!</p>
 
 <h4>amuzzin is yet another online music player</h4>
 
@@ -166,14 +166,14 @@
 
 <ul>
 <li>Link Gtalk status to some music players (in worst case  changing it manually)</li>
-<li>Spam people on Facebook with Listening to statuses</li>
+<li>Spam people on Facebook with &lsquo;Listening to&rsquo; statuses</li>
 <li>Tweet each and every song you play using #nowplaying</li>
 </ul>
 
 
 <p>This is how the world worked atleast for letting your friends know what you are currently listening to (which would annoy rest of the crowd).</p>
 
-<p>We have a feature in amuzzin <strong>friends&#8217; stream</strong> which would list all your online friends, their currently playing songs and their entire Queue of Now Playing.</p>
+<p>We have a feature in amuzzin called <strong>friends&#8217; stream</strong> which would list all your online friends, their currently playing songs and their entire Queue of Now Playing.</p>
 
 <p>Whenever you signin using Facebook we sync all your facebook friends who are in amuzzin database. If you want to keep your facebook world out of the amuzzin world (since both serves entirely different purposes) you can manually search your close ones and add them selectively.</p>
 
@@ -207,7 +207,7 @@
 
 <blockquote><p>Algorithms are good slave but bad masters.</p></blockquote>
 
-<p>We have tried algorithms to recommend the songs you would love but you haven&rsquo;t heard, depending on the Pitch,Frequency,Artist,Album,Users and all other details available about the song in match with you. This is still in alpha but we think this might help you explore more songs and will keep you always happy with diverse songs from our repository. We know algorithms are bad atleast in two things, deciding your music and your partner. We just provide you a path to explore new songs here, like a pinch of salt in your entire music dish.</p>
+<p>We have tried algorithms to recommend the songs you would love but you haven&rsquo;t heard, depending on the Pitch,Frequency,Artist,Album,Users and all other details available about the song in match with you. This is still in alpha but we think this might help you explore more songs and will keep you happy always with diverse songs from our repository. We know algorithms are bad atleast in two things, deciding your music and your partner. We just provide you a path to explore new songs here, like a pinch of salt in your entire music dish.</p>
 
 <p> Explore this feature from here: <a href="http://amuzz.in/home">http://amuzz.in/home</a></p>
 
@@ -225,7 +225,17 @@
 </nav>
   </section>
   
-
+<script>
+function addBlankTargetForLinks () {
+  $('a[href^="http"]').each(function(){
+    $(this).attr('target', '_blank');
+  });
+}
+ 
+$(document).bind('DOMNodeInserted', function(event) {
+  addBlankTargetForLinks();
+});
+</script>
   
 
 
