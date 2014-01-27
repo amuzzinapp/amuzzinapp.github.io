@@ -4,7 +4,7 @@
   <title><![CDATA[Category: artists | blog.amuzz.in]]></title>
   <link href="http://blog.amuzz.in/blog/categories/artists/atom.xml" rel="self"/>
   <link href="http://blog.amuzz.in/"/>
-  <updated>2014-01-28T00:31:25+05:30</updated>
+  <updated>2014-01-28T01:14:17+05:30</updated>
   <id>http://blog.amuzz.in/</id>
   <author>
     <name><![CDATA[amuzzin]]></name>
@@ -20,45 +20,58 @@
     <id>http://blog.amuzz.in/blog/2014/01/28/publishing-song-made-easy-in-amuzzin</id>
     <content type="html"><![CDATA[<h1>Publishing songs made easy with amuzzin</h1>
 
-<p>We received few requests from budding artists on their need to upload their own Album Art and to edit the language, genre and lyrics of their song. We are glad we completed those features in the current release (28 Jan 2014).</p>
+<p>We received few requests from budding artists on their need to upload their own Album Art and to edit the language, genre and lyrics of their song. We are glad we implemented those features in the current release (28 Jan 2014).</p>
 
 <h4>Pictures, pictures everywhere!</h4>
 
-<p>Whenever we display your song in amuzzin, mostly it would result in displaying an boring <strong>&ldquo;No Image Available&rdquo;</strong> frame. This might happen because, your songs might lack an Album Art internally as specified by mp3 format.</p>
+<p>Whenever we display your song in amuzzin, mostly it would result in displaying a boring <strong>&ldquo;No Image Available&rdquo;</strong>. This might happen because, your song might lack an Album Art internally as specified by mp3 format.</p>
 
-<p>We know pictures plays very important role in this multimedia era and it&rsquo;s more descriptive than any other form of media. If you got a perfect Album Art for your song, you are going to attract more music fans than your fellow artists.</p>
+<p>We know pictures play a very important role in this multimedia era and it&rsquo;s more descriptive than any other form of media. If you got a perfect Album Art for your song, you are going to attract more music fans than your fellow artists.</p>
 
-<h4>So how do I update my songs' Album Art?</h4>
+<h4>So how do I update my song&rsquo;s Album Art?</h4>
 
-<p>Very simple! Go to <strong>My Songs</strong> and click edit Icon on the appropriate song (now edit option appears on top right corner of each song). It would display three column page.</p>
+<p>Very simple! Go to <strong>My Songs</strong> and click edit Icon on the appropriate song (now edit option appears on top right corner of each song). It would display a three column page.</p>
 
 <p>In the first column you would be viewing the old Album Art.</p>
 
 <p>You can upload an album art in two ways:</p>
 
+<blockquote><p>If you have your Album Art in your PC,</p></blockquote>
+
 <ul>
-<li>If you have your Album Art in your PC then click <strong>choose file</strong>, locate your image file and upload it.</li>
-<li>If you have an url which points your Album Art then copy paste the Remote Url in the appropriate field and click <strong>Save Song</strong>.</li>
+<li>then click <strong>choose file</strong>, locate your image file and and click on <strong>Save Song</strong>.</li>
 </ul>
 
 
-<p>The new album art would automatically reflect in every other place it has been published in amuzzin.</p>
+<blockquote><p>If you have a url of your Album Art,</p></blockquote>
+
+<ul>
+<li>then copy paste it into the Remote Url field and click on <strong>Save Song</strong>.</li>
+</ul>
+
+
+<p>The new album art would automatically reflect across amuzzin.</p>
 
 <h4>More details on your song, more popular you are in amuzzin</h4>
 
-<p>So you changed your Song with a nice Album Art, but more details about your song would help your Music fans find you in their search more easily.</p>
+<p>So you changed your Song with a nice Album Art, but more details about your song would help your Music fans find your song in their search more easily.</p>
 
 <p>In the second column you can Edit the Genre,Language,Year. You can add complete <strong>Lyrics</strong> of the Song which might help the next level music listeners who would listen music along with the lyrics of the song.</p>
 
 <h4>I am an artist and I need my profile WITH MY PHOTO</h4>
 
-<p>Previously there is no way in amuzzin to edit your Profile photo. We have either extracted your photo from Facebook or from Gravatar.</p>
+<p>Previously there was no way in amuzzin to edit your Profile photo. We had either extracted your photo from Facebook or Gravatar.</p>
 
-<p>&lsquo;coz we thought amuzzin would be more of adding new music by an artist, than updating their profile every hour with a photo which they might have took on the parkside (ofcourse with vintage filter applied).</p>
+<p>&lsquo;coz we thought amuzzin would be more of adding new music by an artist, than updating their profile every hour with a photo which they might have captured on the parkside (ofcourse with vintage filter applied).</p>
 
-<p>But since few artists are confused about changing their identity in Gravatar or Facebook services we decided to allow <strong>Edit Profile Photo</strong> within amuzzin, from where they can update their profile photo.</p>
+<p>But since few artists were confused about changing their identity in Gravatar or Facebook services we decided to allow <strong>Edit Profile Photo</strong> within amuzzin, through which they can update their profile photo.</p>
 
-<p>This would appear on either viewing your own Profile or clicking on the Dropdown at top right corner.</p>
+<p>This would appear either on viewing your Profile or by clicking on the Dropdown at the top right corner.</p>
+
+<p>Stay tuned for further updates.</p>
+
+<blockquote><p>Cheers,
+Amuzzin Team</p></blockquote>
 ]]></content>
   </entry>
   
