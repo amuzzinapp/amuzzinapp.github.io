@@ -4,7 +4,7 @@
   <title><![CDATA[blog.amuzz.in]]></title>
   <link href="http://blog.amuzz.in/atom.xml" rel="self"/>
   <link href="http://blog.amuzz.in/"/>
-  <updated>2014-01-28T01:20:22+05:30</updated>
+  <updated>2014-04-03T00:22:05+05:30</updated>
   <id>http://blog.amuzz.in/</id>
   <author>
     <name><![CDATA[amuzzin]]></name>
@@ -14,13 +14,71 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Group Listen - the missing feature in the music world]]></title>
+    <link href="http://blog.amuzz.in/blog/2014/04/03/group-listen-the-missing-feature-in-the-music-world/"/>
+    <updated>2014-04-03T00:18:49+05:30</updated>
+    <id>http://blog.amuzz.in/blog/2014/04/03/group-listen-the-missing-feature-in-the-music-world</id>
+    <content type="html"><![CDATA[<h4>How is amuzzin different?</h4>
+
+<p>We have spent more than a year building the necessary features for a complete Music listening experience but the question we frequently faced is, how different is amuzzin from the rest of the music streaming websites available in Internet.</p>
+
+<p>We tried binding social experience to the music world previously to some extent with a feature called <strong>Friends&#8217; Stream</strong>. This time we have tried making a giant leap by introducing a new feature called <strong>Group Listen</strong>.</p>
+
+<h4>How does it work</h4>
+
+<p>Group Listen works just like a conference call. Instead of you speaking with friends in a conference, you listen to a common queue along with your friends, synced in realtime.</p>
+
+<h3>How to enter Group Listen</h3>
+
+<p>You can enter into Group Listen in two ways:</p>
+
+<h5>1. Starting a New Group Listen</h5>
+
+<ul>
+<li>Start Group Listen by clicking <strong>Group Listen</strong> tab at side menu and by clicking the <strong>[Start Group Listen]</strong> button.</li>
+<li>Add Online friends by clicking <strong>[+]</strong> button near each friend.</li>
+</ul>
+
+
+<h5>2. Enter existing Group Listen</h5>
+
+<ul>
+<li>If your friend has already started a Group Listen he can add you to the Group by clicking <strong>[+]</strong> button near your name.</li>
+<li>You will get a request on your screen.</li>
+<li>You can either Accept or Reject the group listen request.</li>
+</ul>
+
+
+<h4>I entered Group Listen and I lost my Current Queue</h4>
+
+<p>Don&rsquo;t worry your queue is safe with us. Whenever you are bored of the Group or you want to step back and take control, you can click <strong>[Leave Group]</strong>. You will get back your Current Queue again.</p>
+
+<h4>What can happen in Group Listen ?</h4>
+
+<ul>
+<li>Whatever song your friends starts listening to, will get reflected to you and the Group members.</li>
+<li>You can chat within the group.</li>
+<li>Add any of your online friends to the Group.</li>
+<li>Leave the Group and enjoy the songs independently if you hate that Group.</li>
+<li>Start a new Group and add your loved ones.</li>
+</ul>
+
+
+<p>You can enjoy the feature from here:
+<a href="http://amuzz.in/group_listen">http://amuzz.in/group_listen</a></p>
+
+<p>Regards,</p>
+
+<p>Amuzzin Team</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[publishing song made easy with amuzzin]]></title>
     <link href="http://blog.amuzz.in/blog/2014/01/28/publishing-song-made-easy-in-amuzzin/"/>
     <updated>2014-01-28T00:23:23+05:30</updated>
     <id>http://blog.amuzz.in/blog/2014/01/28/publishing-song-made-easy-in-amuzzin</id>
-    <content type="html"><![CDATA[<h1>Publishing songs made easy with amuzzin</h1>
-
-<p>We received few requests from budding artists on their need to upload their own Album Art and to edit the language, genre and lyrics of their song. We are glad we implemented those features in the current release (28 Jan 2014).</p>
+    <content type="html"><![CDATA[<p>We received few requests from budding artists on their need to upload their own Album Art and to edit the language, genre and lyrics of their song. We are glad we implemented those features in the current release (28 Jan 2014).</p>
 
 <h4>Pictures, pictures everywhere!</h4>
 
@@ -80,9 +138,7 @@ Amuzzin Team</p></blockquote>
     <link href="http://blog.amuzz.in/blog/2014/01/18/5-reasons-why-you-should-own-an-amuzzin-account/"/>
     <updated>2014-01-18T23:04:25+05:30</updated>
     <id>http://blog.amuzz.in/blog/2014/01/18/5-reasons-why-you-should-own-an-amuzzin-account</id>
-    <content type="html"><![CDATA[<h1>5 reasons why you should own an amuzzin account</h1>
-
-<p>We have officially launched amuzzin three days ago and we have few <strong>genuine</strong> users. We are really happy for their adventurous dive into our application, exploring each and every feature and providing us their valuble suggestions. Some suggestions are way beyond our scope, but we will get there :)</p>
+    <content type="html"><![CDATA[<p>We have officially launched amuzzin three days ago and we have few <strong>genuine</strong> users. We are really happy for their adventurous dive into our application, exploring each and every feature and providing us their valuble suggestions. Some suggestions are way beyond our scope, but we will get there :)</p>
 
 <p>We would like to draw a clear line of what is not amuzzin before we start.</p>
 
